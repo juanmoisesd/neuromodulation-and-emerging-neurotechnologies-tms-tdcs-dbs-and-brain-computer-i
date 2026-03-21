@@ -1,0 +1,34 @@
+{
+  "name": "neuromodulation-and-emerging-neurotechnologies-tms-tdcs-dbs-and-brain-computer-i",
+  "title": "Repository of databases, records, and repositories on neuromodulation and emerging neurotechnologies: transcranial magnetic stimulation (TMS), transcranial direct current stimulation (tDCS), deep brain stimulation (DBS), brain-computer interfaces (BC",
+  "description": "Repository of databases, records, and repositories on neuromodulation and emerging neurotechnologies: transcranial magnetic stimulation (TMS), transcranial direct current stimulation (tDCS), deep brain stimulation (DBS), brain-computer interfaces (BC",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "open-data",
+    "zenodo"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/neuromodulation-and-emerging-neurotechnologies-tms-tdcs-dbs-and-brain-computer-i"
+    }
+  ],
+  "created": "2026-03-20"
+}
