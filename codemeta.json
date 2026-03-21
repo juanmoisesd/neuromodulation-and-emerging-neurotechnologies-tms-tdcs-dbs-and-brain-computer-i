@@ -1,17 +1,43 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Neuromodulation and Emerging Neurotechnologies: TMS, tDCS, DBS and Brain-Computer Interfaces Database",
-  "identifier": "10.5281/zenodo.18881112",
-  "url": "https://doi.org/10.5281/zenodo.18881112",
+  "@type": "SoftwareSourceCode",
+  "name": "Repository of databases, records, and repositories on neuromodulation and emerging neurotechnologies: transcranial magnetic stimulation (TMS), transcranial direct current stimulation (tDCS), deep brain stimulation (DBS), brain-computer interfaces (BC",
+  "description": "Repository of databases, records, and repositories on neuromodulation and emerging neurotechnologies: transcranial magnetic stimulation (TMS), transcranial direct current stimulation (tDCS), deep brain stimulation (DBS), brain-computer interfaces (BC",
+  "url": "https://github.com/juanmoisesd/neuromodulation-and-emerging-neurotechnologies-tms-tdcs-dbs-and-brain-computer-i",
+  "codeRepository": "https://github.com/juanmoisesd/neuromodulation-and-emerging-neurotechnologies-tms-tdcs-dbs-and-brain-computer-i",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "keywords": []
+  "keywords": [
+    "cc0",
+    "dataset",
+    "open-data",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
